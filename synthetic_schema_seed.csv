@@ -1,0 +1,17 @@
+transaction_id,category,amount_spent,implied_item_count,perceived_quality_tier
+TXN001,Apparel,120.00,1,premium
+TXN002,Apparel,45.00,3,budget
+TXN003,Apparel,96.00,8,budget
+TXN004,Apparel,210.00,2,premium
+TXN005,Electronics,800.00,1,premium
+TXN006,Electronics,150.00,5,budget
+TXN007,Electronics,65.00,1,budget
+TXN008,Electronics,1350.00,2,premium
+TXN009,Groceries,38.50,17,budget
+TXN010,Groceries,52.00,8,premium
+TXN011,Groceries,14.20,6,budget
+TXN012,Groceries,27.30,4,premium
+TXN013,Furniture,690.00,1,premium
+TXN014,Furniture,240.00,3,budget
+TXN015,Furniture,85.00,1,budget
+TXN016,Furniture,1480.00,2,premium
