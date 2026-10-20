@@ -162,4 +162,4 @@ Every illustrative parameter is replaced in turn. Each stage is usable on its ow
 
 ## Author
 
-Rezi Kotrikadze, MSc Environmental Management and Policy, IIIEE, Lund University. Prototype developed in October 2026 alongside an application to the Chalmers doctoral project *Quantity or quality? Rethinking carbon footprints and demand-side policy*.
+Revaz Kotrikadze
